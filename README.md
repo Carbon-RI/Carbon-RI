@@ -28,7 +28,7 @@ Let's connect and build something impactful!
 **Concept:** Dosis is a mobile application designed to seamlessly integrate medication taking into the user's daily life, minimizing cognitive load and effort.
 
 * **Key Features:**
-    * One-step schedule registration based on user rhythm and medication requirements.
+    * One-step schedule registration based on user schedule and medication requirements.
     * Comprehensive Push Notifications (including refill timing).
     * Interaction Blocker during medication addition for focused registration.
 
@@ -42,6 +42,7 @@ Let's connect and build something impactful!
 | **Database** | **MongoDB** (integrated with Agenda for scheduling) |
 
 #### 👤 My Responsibilities (Core Focus)
+**Role: Primary Contributor / Core Implementer**
 
 * **Architectural Design:** Designing the core logic for medication registration, schedule generation, and notification features.
 * **Data Modeling:** Designing the database schema and data modeling strategy.
@@ -58,4 +59,8 @@ Let's connect and build something impactful!
     * **Challenge:** Balancing the attractiveness of flexible feature expansion against the risk of creating overly complex settings, which would increase the learning curve and decrease manageability for users.
     * **Solution:** Prioritized releasing a basic set of features first to validate the app's core concept and philosophy against market needs before introducing complex, optional flexibility.
 
+3.  **Technical Constraint (Expo Limitation):**
+    * **Challenge:** Facing the **limitations of Expo's Native functionality** for advanced mobile features during later development phases.
+    * **Solution:** Conducted a comprehensive **feature feasibility study** and formulated a **detailed migration plan** (e.g., transitioning to Expo Bare Workflow or full React Native CLI) to proactively manage technical debt and ensure future scalability.
+      
 </details>
