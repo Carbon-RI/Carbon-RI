@@ -56,8 +56,8 @@ Let's connect and build something impactful!
 #### 💡 Challenges & Solutions
 
 1.  **Safety & Scalability (MedTech Perspective):**
-    * **Challenge:** As a MedTech app, we required a secure and realistic specification that could adapt to long-term changes (e.g., official drug API integration).
-    * **Solution:** Developed a long-term plan with defined phases. Architected the data source to allow seamless switching from the self-maintained DB to an external DB, and eventually to an API, **without major core logic rework**.
+    * **Challenge:** As a MedTech application, we were required to establish a secure and realistic specification, which was challenging due to the Canadian government's drug API availability and the diversity of potential use cases.
+    * **Solution:** Developed a realistic, long-term development plan. Architected the data source to allow seamless switching from the self-maintained DB to an external DB, and eventually to an API, without major core logic rework. We adopted a policy to prevent unnecessary feature bloat by ensuring that use cases would be expanded in phases as the database became richer.
 
 2.  **Usability vs. Flexibility (PM Perspective):**
     * **Challenge:** Balancing the attractiveness of flexible feature expansion against the risk of creating overly complex settings, which would increase the learning curve and decrease manageability for users.
