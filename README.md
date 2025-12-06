@@ -23,7 +23,7 @@ Let's connect and build something impactful!
 ### 💊 Project: Dosis [MedTech]
 
 <details>
-<summary><strong>詳細を見る (Medication Management App)</strong></summary>
+<summary><strong>View Details (Medication Management App)</strong></summary>
 
 **Concept:** Dosis is a mobile application designed to seamlessly integrate medication taking into the user's daily life, minimizing cognitive load and effort.
 
