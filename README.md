@@ -12,7 +12,7 @@ My background includes **15 years of construction project management**, where I 
 
 My enthusiasm for **problem-solving** fueled my pivot to software engineering. I am deeply focused on developing with **JavaScript, React, and Node.js**, and I aim to leverage my seasoned project management and team collaboration skills to architect and deliver innovative software solutions.
 
-Let's connect and build something impactful!
+Let's connect and build something impactful! Connect with me on [LinkedIn](https://www.linkedin.com/in/ryo-ito46/)!
 
 ---
 
