@@ -22,6 +22,8 @@ Let's connect and build something impactful!
 
 ---
 
+## 🚀 Featured Projects
+
 ### 💊 Project: Dosis [MedTech]
 
 <details>
@@ -30,7 +32,7 @@ Let's connect and build something impactful!
 **Concept:** Dosis is a mobile application designed to seamlessly integrate medication taking into the user's daily life, minimizing cognitive load and effort.
 
 * **Key Features:**
-    * One-step schedule registration based on user schedule and medication requirements.
+    * One-step schedule registration based on user rhythm and medication requirements.
     * Comprehensive Push Notifications (including refill timing).
     * Interaction Blocker during medication addition for focused registration.
 
@@ -62,9 +64,9 @@ Let's connect and build something impactful!
     * **Solution:** Prioritized releasing a basic set of features first to validate the app's core concept and philosophy against market needs before introducing complex, optional flexibility.
 
 3.  **Technical Constraint (Expo Limitation):**
-    * **Challenge:** Facing the **limitations of Expo's Native functionality** for advanced mobile features during later development phases.
+    * **Challenge:** Facing the limitations of Expo's Native functionality for advanced mobile features during later development phases.
     * **Solution:** Conducted a comprehensive **feature feasibility study** and formulated a **detailed migration plan** (e.g., transitioning to Expo Bare Workflow or full React Native CLI) to proactively manage technical debt and ensure future scalability.
-      
+
 </details>
 
 ---
@@ -107,3 +109,48 @@ Let's connect and build something impactful!
     * **Solution:** Achieved the goal by engaging in **repeated technical feasibility reviews** and **close collaboration with the designer**, successfully implementing the necessary unique user interfaces.
 
 </details>
+
+---
+
+### 🫂 Project: Impacto (Event & Petition App) [SocialTech]
+
+<details>
+<summary><strong>View Details (Community Engagement Tool)</strong></summary>
+
+**Concept:** The platform was developed to solve the two main challenges in community organizing: the **psychological barrier to starting activities** and the **difficulty of gaining supporter consensus (Petition)**. Impacto simplifies the event and petition processes, and amplifies the activity's momentum through real-time participant statistics and live chat.
+
+#### Core Features
+
+* Streamlined **Event and Petition registration** functionality.
+* Effective **viewing forms** for registered activities.
+* **Real-time participant statistics** display.
+* **Live Chat** functionality for activity promotion.
+
+#### 🛠️ Technology Used
+
+| Category | Technologies |
+| :--- | :--- |
+| **Front-end** | **Pure JavaScript (Vanilla JS)**, HTML, CSS, **PWA** |
+| **Back-end/BaaS** | **Firebase** (Authentication, Firestore/RTDB) |
+| **Cloud/Infrastructure** | **Firebase Hosting** (Assumed) |
+
+#### 👤 My Responsibilities (Core Focus)
+**Role: Primary Contributor / Core Implementer**
+
+* **Live Chat Implementation:** Designed and implemented the Live Chat feature, including image/video posting and organizer deletion functionality.
+* **Persistent UX:** Implemented the chat as a **floating window** to ensure the chat content remained visible during page transitions.
+* **Foundational Leadership:** Led Firebase environment setup and the implementation of **PWA features** (offline settings, manifest) utilizing **Service Worker**.
+
+#### 💡 Challenges & Solutions
+
+1.  **Complex State Management (Pure JS):**
+    * **Challenge:** In a **framework-agnostic** environment, implementing complex **State Management** was required to handle chat state persistence and seamless UX during page transitions and event start-up.
+    * **Solution:** Designed a **custom global State Management pattern** utilizing **Local Storage and Session Storage** to achieve seamless UX without reliance on a major framework.
+
+2.  **Robust PWA Foundation & Security:**
+    * **Challenge:** Ensuring offline functionality and security across multiple developers while establishing PWA standards.
+    * **Solution:** Led the definition and modification of **Firebase Security Rules** and the implementation of the **offline caching strategy using Service Worker** to establish a robust and modern foundation.
+
+</details>
+
+---
