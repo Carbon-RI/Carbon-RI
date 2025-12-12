@@ -25,6 +25,7 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
 ## 🚀 Featured Projects
 
 ### 💊 Project: Dosis [MedTech]
+* [LandingPage](https://dosis-wmdd.netlify.app/)
 
 <details>
 <summary><strong>View Details (Medication Management App)</strong></summary>
@@ -68,7 +69,7 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
     * **Solution:** Conducted a comprehensive **feature feasibility study** and formulated a **detailed migration plan** (e.g., transitioning to Expo Bare Workflow or full React Native CLI) to proactively manage technical debt and ensure future scalability.
 
 </details>
-<small>[LandingPage](https://dosis-wmdd.netlify.app/)</small>
+
 ---
 
 ### 📚 Project: Cubie [EduTech]
