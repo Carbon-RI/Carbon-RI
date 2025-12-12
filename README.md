@@ -29,8 +29,6 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
 <details>
 <summary><strong>View Details (Medication Management App)</strong></summary>
 
-[LandingPage](https://dosis-wmdd.netlify.app/)
-
 **Concept:** Dosis is a mobile application designed to seamlessly integrate medication taking into the user's daily life, minimizing cognitive load and effort.
 
 * **Key Features:**
@@ -70,6 +68,8 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
     * **Solution:** Conducted a comprehensive **feature feasibility study** and formulated a **detailed migration plan** (e.g., transitioning to Expo Bare Workflow or full React Native CLI) to proactively manage technical debt and ensure future scalability.
 
 </details>
+
+[LandingPage](https://dosis-wmdd.netlify.app/)
 ---
 
 ### 📚 Project: Cubie [EduTech]
