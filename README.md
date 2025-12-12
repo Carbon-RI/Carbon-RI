@@ -71,8 +71,8 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
 
 ---
 
-### 📚 Project: Cubie [EduTech](https://cubie-learning.wmdd.ca/)
-
+### 📚 Project: Cubie [EduTech]
+[LandingPage](https://cubie-learning.wmdd.ca/)
 <details>
 <summary><strong>View Details (Unified Educational Platform)</strong></summary>
 
