@@ -24,8 +24,7 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
 
 ## 🚀 Featured Projects
 
-### 💊 Project: Dosis [MedTech]
-* [LandingPage](https://dosis-wmdd.netlify.app/)
+### 💊 Project: Dosis [MedTech](https://dosis-wmdd.netlify.app/)
 
 <details>
 <summary><strong>View Details (Medication Management App)</strong></summary>
