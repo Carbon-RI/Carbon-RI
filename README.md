@@ -72,7 +72,7 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
 ---
 
 ### 📚 Project: Cubie [EduTech]
-[LandingPage](https://cubie-learning.wmdd.ca/)
+[LandingPage](https://cubie-learning.wmdd.ca/)<br>
 **Project Demo Video:** [Watch the Dosis Project Demo on Google Drive](https://drive.google.com/file/d/1VRq3nKF4f8zaVpaYuEBV5rsCm81YDkez/view?usp=drive_link)
 <details>
 <summary><strong>View Details (Unified Educational Platform)</strong></summary>
