@@ -69,7 +69,7 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
 
 </details>
 
-[LandingPage](https://dosis-wmdd.netlify.app/)
+<span style="font-size: 0.85em;">[LandingPage](https://dosis-wmdd.netlify.app/)</span>
 ---
 
 ### 📚 Project: Cubie [EduTech]
