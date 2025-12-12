@@ -68,7 +68,7 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
     * **Solution:** Conducted a comprehensive **feature feasibility study** and formulated a **detailed migration plan** (e.g., transitioning to Expo Bare Workflow or full React Native CLI) to proactively manage technical debt and ensure future scalability.
 
 </details>
-
+**Landing Page:** [https://dosis-wmdd.netlify.app/](https://dosis-wmdd.netlify.app/)
 ---
 
 ### 📚 Project: Cubie [EduTech]
