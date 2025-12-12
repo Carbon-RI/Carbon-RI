@@ -113,6 +113,7 @@ Let's connect and build something impactful! Connect with me on [LinkedIn](https
 ---
 
 ### 🫂 Project: Impacto (Event & Petition App) [SocialTech]
+**Project Demo Video:** [Watch the Dosis Project Demo on Google Drive](https://drive.google.com/file/d/1C_cStFj7zrxBO-hYCvoZD636t8wBsM7k/view?usp=sharing)
 
 <details>
 <summary><strong>View Details (Community Engagement Tool)</strong></summary>
