@@ -1,4 +1,3 @@
----
 # Ray(Ryo) Ito | Full-Stack Developer & Project Architect
 
 ## From Physical Infrastructure to Digital Solutions
