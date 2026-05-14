@@ -1,158 +1,69 @@
-Hi there 👋
+---
+# Ray(Ryo) Ito | Full-Stack Developer & Project Architect
 
-# Aspiring Full-Stack Developer & Project Lead 🚀
+## From Physical Infrastructure to Digital Solutions
+With **15 years of experience in Construction Project Management**, I have specialized in the delivery of critical infrastructure, including **large-scale data centers** in Japan and Singapore.
 
-### About Me
+This background defines my approach to software engineering: I don't just write code; I architect systems with the same precision and commitment to reliability required for physical mission-critical facilities.
 
-I am a passionate aspiring **Full-Stack Developer** currently mastering modern web technologies at **Langara College**.
+* **Engineering Focus**: Deeply committed to **Next.js**, **TypeScript**, and **Node.js**.
+* **Strategic Mindset**: Leveraging over a decade of leading multinational teams to deliver high-performance software with absolute technical integrity.
+* **Value**: Bridging the gap between complex project oversight and modern full-stack development.
 
-My background includes **15 years of construction project management**, where I built a robust foundation in delivering complex projects—particularly large-scale **data centers**—from conception to completion. This experience has honed my abilities in:
-* **Project Oversight:** Managing complex timelines and scope.
-* **Global Team Collaboration:** Successfully leading diverse, multinational teams in Japan and Singapore.
-
-My enthusiasm for **problem-solving** fueled my pivot to software engineering. I am deeply focused on developing with **JavaScript, React, and Node.js**, and I aim to leverage my seasoned project management and team collaboration skills to architect and deliver innovative software solutions.
-
-Let's connect and build something impactful!
 [Portfolio](https://www.ryoito.dev/) | [LinkedIn](https://www.linkedin.com/in/ryo-ito46/)
 
 ---
 
-### 🛠️ Tech Stack
+## Technical Strategy & Stack
 
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![](https://img.shields.io/badge/-Expo-1B1F23?style=flat-square&logo=expo&logoColor=white) ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=black) ![](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Core Expertise
+> **Building robust, high-performance web applications through type-safe architecture and Next.js optimization.**
+![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 💊 Project: Dosis [MedTech]
-[LandingPage](https://dosis-wmdd.netlify.app/)
-<details>
-<summary><strong>View Details (Medication Management App)</strong></summary>
-
-**Concept:** Dosis is a mobile application designed to seamlessly integrate medication taking into the user's daily life, minimizing cognitive load and effort.
-
-* **Key Features:**
-    * One-step schedule registration based on user rhythm and medication requirements.
-    * Comprehensive Push Notifications (including refill timing).
-    * Interaction Blocker during medication addition for focused registration.
-
-#### 🛠️ Technology Used
-
-| Category | Technologies |
-| :--- | :--- |
-| **Front/Mobile** | **ReactNative (Expo)** |
-| **Back-end** | **Node.js, Express** |
-| **Auxiliary** | **Python** (for OCR assistance) |
-| **Database** | **MongoDB** (integrated with Agenda for scheduling) |
-
-#### 👤 My Responsibilities (Core Focus)
-**Role: Primary Contributor / Core Implementer**
-
-* **Architectural Design:** Designing the core logic for medication registration, schedule generation, and notification features.
-* **Data Modeling:** Designing the database schema and data modeling strategy.
-* **Implementation:** Implementing core registration features, including OCR functionality.
-* **Refactoring:** Overall code refactoring and system integration.
-
-#### 💡 Challenges & Solutions
-
-1.  **Safety & Scalability (MedTech Perspective):**
-    * **Challenge:** As a MedTech application, we were required to establish a secure and realistic specification, which was challenging due to the Canadian government's drug API availability and the diversity of potential use cases.
-    * **Solution:** Developed a realistic, long-term development plan. Architected the data source to allow seamless switching from the self-maintained DB to an external DB, and eventually to an API, without major core logic rework. We adopted a policy to prevent unnecessary feature bloat by ensuring that use cases would be expanded in phases as the database became richer.
-
-2.  **Usability vs. Flexibility (PM Perspective):**
-    * **Challenge:** Balancing the attractiveness of flexible feature expansion against the risk of creating overly complex settings, which would increase the learning curve and decrease manageability for users.
-    * **Solution:** Prioritized releasing a basic set of features first to validate the app's core concept and philosophy against market needs before introducing complex, optional flexibility.
-
-3.  **Technical Constraint (Expo Limitation):**
-    * **Challenge:** Facing the limitations of Expo's Native functionality for advanced mobile features during later development phases.
-    * **Solution:** Conducted a comprehensive **feature feasibility study** and formulated a **detailed migration plan** (e.g., transitioning to Expo Bare Workflow or full React Native CLI) to proactively manage technical debt and ensure future scalability.
-
-</details>
+### Engineering Ecosystem
+* **Frontend & Mobile:** React, Tailwind CSS, Vite, React Native (Expo)
+* **Backend & Data:** Supabase (RPC/Realtime), Express, MongoDB, Firebase, **Zod**
+* **Infrastructure:** Docker, AWS (S3/EC2), Vercel (CI/CD), GitHub Actions
+* **Governance:** Strategic Architecture Design, Agile (Jira), Python
 
 ---
 
-### 📚 Project: Cubie [EduTech]
-[LandingPage](https://cubie-learning.wmdd.ca/)<br>
-**Project Demo Video:** [Watch the Dosis Project Demo on Google Drive](https://drive.google.com/file/d/1VRq3nKF4f8zaVpaYuEBV5rsCm81YDkez/view?usp=drive_link)
-<details>
-<summary><strong>View Details (Unified Educational Platform)</strong></summary>
+### Engineering Meets Minimalism: Personal Portfolio
+[Live Demo](https://www.ryoito.dev) | [Source Code](https://github.com/Carbon-RI/Portfolio-2026)
 
-**Concept:** Cubie is a unified platform designed to streamline collaboration between **Teachers, Students, and Parents**, addressing the inefficiencies caused by the complexity of existing educational systems.
+A performance-driven portfolio embodying "Strategic Minimalism"—designed to solve the trade-off between high-end visual aesthetics and peak engineering performance.
 
-* **Key Features:**
-    * **Teachers:** Centralized format for material sharing, assignment management, and grade evaluation.
-    * **Students:** Easy access to materials, submission/grade check, AI-powered self-study, and collaboration chat.
-    * **Parents:** Grade tracking and school notification reception.
-
-#### 🛠️ Technology Used
-
-| Category | Technologies |
-| :--- | :--- |
-| **Front-end** | **React, Recharts** (for data visualization) |
-| **Back-end** | **Node.js, Express, Socket.io** (for real-time features) |
-| **Database/AI** | **MongoDB, Gemini** |
-| **Cloud** | **AWS** |
-
-#### 👤 My Responsibilities (Core Focus)
-**Role: Lead Developer** (Full Stack)
-
-* **Project Foundation:** Setting up the development environment, creating the boilerplate structure, and establishing the base data modeling.
-* **Core Implementation:** Implementing the core logic for material and assignment exchange between students and teachers.
-
-#### 💡 Challenges & Solutions
-
-1.  **Technology Adoption & Efficiency:**
-    * **Challenge:** The project required **React development**, which was new to the entire team.
-    * **Solution:** Leveraging the team's strong affinity for JavaScript, we strategically chose the **MERN stack**. By personally handling the environment setup and boilerplate implementation, I ensured the team could immediately focus on core feature implementation, **maximizing the project period**.
-
-2.  **Complex Multi-Role UX:**
-    * **Challenge:** Creating intuitive and distinct user experiences (UX) for the complex assignment workflow between Students and Teachers, while ensuring technical feasibility.
-    * **Solution:** Achieved the goal by engaging in **repeated technical feasibility reviews** and **close collaboration with the designer**, successfully implementing the necessary unique user interfaces.
-
-</details>
+* RSC-Centric Architecture: Shifted all data-fetching to the server-side and restricted use client to leaf nodes, resolving initial hydration bottlenecks caused by heavy SDKs.
+* Performance Optimization: Substituted JS-heavy animation libraries with native Tailwind CSS optimizations and aggressive tree-shaking of the Firebase SDK to minimize bundle size.
+* Schema-Driven Development: Implemented a type-safe content pipeline using Zod and Firebase, bridging dynamic CMS flexibility with strict runtime data integrity.
+* Lighthouse 100: Achieved perfect scores as a direct result of this "Strategic Minimalism" and intentional architectural decisions.
 
 ---
 
-### 🫂 Project: Impacto (Event & Petition App) [SocialTech]
-**Project Demo Video:** [Watch the Dosis Project Demo on Google Drive](https://drive.google.com/file/d/1C_cStFj7zrxBO-hYCvoZD636t8wBsM7k/view?usp=sharing)
-<details>
-<summary><strong>View Details (Community Engagement Tool)</strong></summary>
+### Architecture & Data Integrity: Impacto (Rebuild)
+[Live Demo](https://impacto-live-chat.vercel.app/) | [Source Code](https://github.com/Carbon-RI/Impacto-live-chat)
 
-**Concept:** The platform was developed to solve the two main challenges in community organizing: the **psychological barrier to starting activities** and the **difficulty of gaining supporter consensus (Petition)**. Impacto simplifies the event and petition processes, and amplifies the activity's momentum through real-time participant statistics and live chat.
+Performed a fundamental architectural redesign of a real-time chat module to transition from a "feature-first" prototype to a "consistency-first" production system.
 
-#### Core Features
+* Database as SSoT: Migrated from client-side state management to a Single Source of Truth (SSoT) model, restricting all data mutations to Supabase RPCs to eliminate multi-client state drift.
+* Atomic Transaction Design: Resolved TOCTOU (race condition) vulnerabilities by unifying authorization checks and data writes within single database transactions using INSERT ... SELECT logic.
+* WAL-based Real-time Sync: Replaced traditional WebSocket events with PostgreSQL Write-Ahead Log (WAL) subscriptions, ensuring the UI reflects only "committed facts" rather than unverified client events.
+* Type-Safe Contract: Established end-to-end type safety by synchronizing the database schema with the TypeScript frontend via Supabase CLI, ensuring high refactoring resilience.
 
-* Streamlined **Event and Petition registration** functionality.
-* Effective **viewing forms** for registered activities.
-* **Real-time participant statistics** display.
-* **Live Chat** functionality for activity promotion.
+---
 
-#### 🛠️ Technology Used
+### Technical Leadership & Team Projects
+While these repositories are private due to team development, they demonstrate my ability to lead technical strategy and solve complex domain challenges.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Front-end** | **Pure JavaScript (Vanilla JS)**, HTML, CSS, **PWA** |
-| **Back-end/BaaS** | **Firebase** (Authentication, Firestore/RTDB) |
-| **Cloud/Infrastructure** | **Firebase Hosting** (Assumed) |
+Dosis (MedTech) | FullStack Dev
+[Full Case Studies in Portfolio](https://www.ryoito.dev/projects/dosis)
+* Strategic Pivot: Engineered a "Two-Step Validation" architecture using Drug Identification Numbers (DIN) to resolve data inconsistencies inherent in raw OCR, prioritizing medical data integrity.
+* Reliable Scheduling: Architected a lifestyle-linked notification system using Agenda and Expo, ensuring precise medication logging and automated safety-guard checks against interaction databases.
 
-#### 👤 My Responsibilities (Core Focus)
-**Role: Primary Contributor / Core Implementer**
-
-* **Live Chat Implementation:** Designed and implemented the Live Chat feature, including image/video posting and organizer deletion functionality.
-* **Persistent UX:** Implemented the chat as a **floating window** to ensure the chat content remained visible during page transitions.
-* **Foundational Leadership:** Led Firebase environment setup and the implementation of **PWA features** (offline settings, manifest) utilizing **Service Worker**.
-
-#### 💡 Challenges & Solutions
-
-1.  **Complex State Management (Pure JS):**
-    * **Challenge:** In a **framework-agnostic** environment, implementing complex **State Management** was required to handle chat state persistence and seamless UX during page transitions and event start-up.
-    * **Solution:** Designed a **custom global State Management pattern** utilizing **Local Storage and Session Storage** to achieve seamless UX without reliance on a major framework.
-
-2.  **Robust PWA Foundation & Security:**
-    * **Challenge:** Ensuring offline functionality and security across multiple developers while establishing PWA standards.
-    * **Solution:** Led the definition and modification of **Firebase Security Rules** and the implementation of the **offline caching strategy using Service Worker** to establish a robust and modern foundation.
-
-</details>
+Cubie (EdTech) | Technical Lead
+[Full Case Studies in Portfolio](https://www.ryoito.dev/projects/cubie)
+* Tech Strategy: Prioritized team velocity and maintainability by selecting a Vanilla React (Vite) stack over high-level frameworks, building core infrastructure from scratch for full transparency.
+* Secure Infrastructure: Designed a multi-layered security model including HttpOnly Cookies and AWS S3 Presigned URLs, ensuring FIPPA compliance for educational data.
+* Adaptive Governance: Established a monorepo structure and standardized directory patterns to eliminate development ambiguity for a distributed team.
 
 ---
