@@ -1,6 +1,6 @@
 # Ray(Ryo) Ito | Full-Stack Developer & Project Architect
 
-## From Physical Infrastructure to Digital Solutions
+### From Physical Infrastructure to Digital Solutions
 With **15 years of experience in Construction Project Management**, I have specialized in the delivery of critical infrastructure, including **large-scale data centers** in Japan and Singapore.
 
 This background defines my approach to software engineering: I don't just write code; I architect systems with the same precision and commitment to reliability required for physical mission-critical facilities.
@@ -13,10 +13,11 @@ This background defines my approach to software engineering: I don't just write 
 
 ---
 
-## Technical Strategy & Stack
+### Technical Strategy & Stack
 
 ### Core Expertise
 > **Building robust, high-performance web applications through type-safe architecture and Next.js optimization.**
+
 ![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Engineering Ecosystem
