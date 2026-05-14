@@ -15,12 +15,12 @@ This background defines my approach to software engineering: I don't just write 
 
 ### Technical Strategy & Stack
 
-### Core Expertise
+**Core Expertise**
 > **Building robust, high-performance web applications through type-safe architecture and Next.js optimization.**
 
 ![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Engineering Ecosystem
+**Engineering Ecosystem**
 * **Frontend & Mobile:** React, Tailwind CSS, Vite, React Native (Expo)
 * **Backend & Data:** Supabase (RPC/Realtime), Express, MongoDB, Firebase, **Zod**
 * **Infrastructure:** Docker, AWS (S3/EC2), Vercel (CI/CD), GitHub Actions
@@ -55,13 +55,13 @@ Performed a fundamental architectural redesign of a real-time chat module to tra
 ### Technical Leadership & Team Projects
 While these repositories are private due to team development, they demonstrate my ability to lead technical strategy and solve complex domain challenges.
 
-Dosis (MedTech) | FullStack Dev
+**Dosis (MedTech)** | FullStack Dev
 
 [Full Case Studies in Portfolio](https://www.ryoito.dev/projects/dosis)
 * **Strategic Pivot**: Engineered a **"Two-Step Validation"** architecture using Drug Identification Numbers (DIN) to resolve data inconsistencies inherent in raw OCR, prioritizing **medical data integrity**.
 * **Reliable Scheduling**: Architected a lifestyle-linked notification system using **Agenda and Expo**, ensuring precise medication logging and automated safety-guard checks against interaction databases.
 
-Cubie (EdTech) | Technical Lead
+**Cubie (EdTech)** | Technical Lead
 
 [Full Case Studies in Portfolio](https://www.ryoito.dev/projects/cubie)
 * **Tech Strategy**: Prioritized team velocity and maintainability by selecting a **Vanilla React (Vite)** stack over high-level frameworks, building core infrastructure from scratch for full transparency.
