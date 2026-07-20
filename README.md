@@ -55,7 +55,7 @@ Cloudflare Workers · Docker · GitHub Actions · Vercel · AWS (S3/EC2)
 ## Featured Projects
 
 <p align="center">
-  <img src="..." alt="Locus Demo" width="900">
+  <img src="./assets/locus-overview.gif" alt="Locus Overview" width="900">
 </p>
 
 ### Locus | Local-first Learning Platform
