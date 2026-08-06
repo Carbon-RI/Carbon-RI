@@ -81,7 +81,7 @@ Cloudflare Workers · Google Cloud Run · Cloud SQL · Docker · GitHub Actions 
 ---
 
 ### Voie | AI Wearable Assistant
-*Personal Project · In Development*
+*In Development*
 
 > **An AI-powered wearable assistant exploring context-aware decision making and proactive interactions through Wear OS.**
 
