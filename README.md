@@ -2,12 +2,12 @@
 
 ### Building Reliable Software Through System Design
 
-I am a **Full-Stack Developer** specializing in **TypeScript, React, Next.js, Node.js, and modern cloud architecture**, with a strong focus on building reliable, maintainable, and type-safe applications.
+I am a **Full-Stack Developer** specializing in **TypeScript, React, Next.js, Node.js, AI-powered systems, and modern cloud architecture**, with a strong focus on building reliable, maintainable, and type-safe applications.
 
 Before transitioning into software engineering, I spent **15 years delivering mission-critical construction projects**, including large-scale data centers in Japan and Singapore. That experience shaped the way I approach software today—prioritizing system design, technical clarity, and long-term maintainability over short-term solutions.
 
-- **Engineering Focus:** TypeScript, React, Next.js, Node.js, Supabase, Cloudflare
-- **Specialization:** System Design, Local-first Architecture, Type-safe Development, Performance Optimization
+- **Engineering Focus:** TypeScript, React, Next.js, Node.js, Kotlin, PostgreSQL, Supabase, Cloud Platforms
+- **Specialization:** System Design, AI-powered Systems, Local-first Architecture, Type-safe Development
 - **Background:** 15 years of project leadership delivering mission-critical infrastructure
 
 [Portfolio](https://www.ryoito.dev/) | [LinkedIn](https://www.linkedin.com/in/ryo-ito46/)
@@ -17,7 +17,7 @@ Before transitioning into software engineering, I spent **15 years delivering mi
 
 ## Technical Expertise
 
-> **Building production-ready web applications with a focus on system design, local-first architecture, type-safe development, and performance.**
+> **Building production-ready software systems with a focus on system design, AI-powered experiences, local-first architecture, type-safe development, and performance.**
 
 ### Core Technologies
 
@@ -25,10 +25,12 @@ Before transitioning into software engineering, I spent **15 years delivering mi
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ### Frontend
 
@@ -36,11 +38,19 @@ React · Next.js · Vite · Tailwind CSS · React Native (Expo)
 
 ### Backend
 
-Node.js · Hono · Express · Supabase · PostgreSQL · Firebase
+Node.js · NestJS · Hono · Express · Prisma · Supabase · PostgreSQL · Firebase
+
+### Mobile
+
+Kotlin · Android · Wear OS
+
+### AI
+
+OpenAI API · AI Decision Systems
 
 ### Architecture & Infrastructure
 
-Cloudflare Workers · Docker · GitHub Actions · Vercel · AWS (S3/EC2)
+Cloudflare Workers · Google Cloud Run · Cloud SQL · Docker · GitHub Actions · Vercel · AWS (S3/EC2)
 
 ### Engineering Focus
 
@@ -50,7 +60,6 @@ Cloudflare Workers · Docker · GitHub Actions · Vercel · AWS (S3/EC2)
 - API Design
 - Performance Optimization
 - Monorepo Architecture
-
 
 ## Featured Projects
 
@@ -71,16 +80,15 @@ Cloudflare Workers · Docker · GitHub Actions · Vercel · AWS (S3/EC2)
 
 ---
 
-### Portfolio | Engineering Meets Minimalism
+### Voie | AI Wearable Assistant
+*Personal Project · In Development*
 
-> **A high-performance portfolio demonstrating how thoughtful architecture can deliver both exceptional user experience and perfect performance metrics.**
+> **An AI-powered wearable assistant exploring context-aware decision making and proactive interactions through Wear OS.**
 
-[**Live Demo**](https://www.ryoito.dev/) | [**Source Code**](https://github.com/Carbon-RI/Portfolio-2026) | [**Full Case Study**](https://www.ryoito.dev/projects/portfolio)
-
-- **RSC-first Architecture**: Moved data fetching to Server Components while limiting Client Components to interactive leaf nodes.
-- **Performance Engineering**: Reduced bundle size through Firebase tree-shaking, native CSS animations, and intentional rendering strategies.
-- **Type-safe Content Pipeline**: Combined Firebase CMS with Zod validation to guarantee runtime data integrity.
-- **Lighthouse 100**: Achieved perfect Lighthouse scores through architectural decisions rather than post-build optimizations.
+- **Context-aware AI**: Designed a decision pipeline that combines user context and Assistant State to generate situation-aware AI guidance.
+- **AI Decision Architecture**: Separated Context, AI Decision, and Presentation layers to keep factual grounding, reasoning, and device presentation independently testable.
+- **Wear OS Experience**: Built an Android Gateway connecting the backend with a Pixel Watch through the Android Data Layer.
+- **Backend & Cloud**: Built a NestJS, Prisma, and PostgreSQL backend deployed on Google Cloud Run and Cloud SQL.
 
 ---
 
